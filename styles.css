@@ -1,5 +1,21 @@
-body {
-  position: relative;
+body div h1 {
+  color : purple;
+  text-transform: uppercase;
+}
+
+.main-header {
+	color : purple
+	text-transform : uppercase;
+
+}
+#header-level-2 {
+	color: purple;
+	text-transform: uppercase;
+}
+
+}
+#header-level-3 {
+	color: yellow;
 }
 
 #fixed-block {
