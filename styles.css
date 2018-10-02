@@ -4,14 +4,8 @@ body div h1 {
 }
 
 .main-header {
-	color : purple
+	color : purple;
 	text-transform : uppercase;
-
-}
-#header-level-2 {
-	color: purple;
-	text-transform: uppercase;
-}
 
 }
 #header-level-3 {
